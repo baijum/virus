@@ -1,1 +1,1 @@
-# Virus Tracker
+# COVID-19 Tracker
